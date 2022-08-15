@@ -11,3 +11,7 @@
 <img src="https://avatars.mds.yandex.net/i?id=d0ee202071d174d3c323b0bf2c5d0bf5-1980598-images-thumbs&n=13" alt="php" style="width: 65px;">
 <img src="https://avatars.mds.yandex.net/i?id=2cd7f7ef072a79e7eae04a1ffa4ac8c8-4767164-images-thumbs&n=13" alt="python" style="width: 65px;">
 </div>
+<h3>
+  My Blog web site
+</h3>
+<a href="http://ms.net.xsph.ru" style="text-decoration: none;">My blog</a>
