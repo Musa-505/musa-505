@@ -10,6 +10,7 @@
 <img src="https://avatars.mds.yandex.net/i?id=83b6150acdc7c1ba0ef0c686a205749c-5869577-images-thumbs&n=13" alt="git" style="width: 65px;">
 <img src="https://avatars.mds.yandex.net/i?id=d0ee202071d174d3c323b0bf2c5d0bf5-1980598-images-thumbs&n=13" alt="php" style="width: 65px;">
 <img src="https://avatars.mds.yandex.net/i?id=2cd7f7ef072a79e7eae04a1ffa4ac8c8-4767164-images-thumbs&n=13" alt="python" style="width: 65px;">
+<img src="https://avatars.mds.yandex.net/i?id=6ea872f6835ff792f43441abe555276c-5231722-images-thumbs&n=13" alt="python" style="width: 65px;">
 </div>
 <h3>
   My Blog web site
