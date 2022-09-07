@@ -18,16 +18,9 @@
 <div>
   <h3>My top repositories
   <ul>
-    <li class="list"><a href="https://github.com/Musa-505/techno-bot">Techno Bot</a></li>
-    <li class="list"><a href="https://github.com/Musa-505/facefind">Face Find</a></li>
-    <li class="list"><a href="https://github.com/Musa-505/voice-assistant">Voice Assistant</a></li>
-    <li class="list"><a href="https://myblog-kz.000webhostapp.com">My blog</a></li>
+    <li style="text-decoration: none; font-size: 18px;"><a href="https://github.com/Musa-505/techno-bot">Techno Bot</a></li>
+    <li style="text-decoration: none; font-size: 18px;"><a href="https://github.com/Musa-505/facefind">Face Find</a></li>
+    <li style="text-decoration: none; font-size: 18px;"><a href="https://github.com/Musa-505/voice-assistant">Voice Assistant</a></li>
+    <li style="text-decoration: none; font-size: 18px;"><a href="https://myblog-kz.000webhostapp.com">My blog</a></li>
   </ul>
 </div>
-  
-<style>
-    .list {
-      font-size: 18px;
-      text-decoration:none;
-    }
-</style>
