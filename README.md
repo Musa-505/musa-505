@@ -1,5 +1,5 @@
 <h2>Musa Aldanazarov</h2>
-<h3>Frontend Dev</h3>
+<h3>Frontend and Python</h3>
 <p>Hi, I'm Musa Aldanazarov fronend developer</p><br>
 <p>My Skills</p>
 <div style="display: flex;">
@@ -18,9 +18,16 @@
 <div>
   <h3>My top repositories
   <ul>
-    <li><a href="https://github.com/Musa-505/techno-bot">Techno Bot</a></li>
-    <li><a href="https://github.com/Musa-505/facefind">Face Find</a></li>
-    <li><a href="https://github.com/Musa-505/voice-assistant">Voice Assistant</a></li>
+    <li class="list"><a href="https://github.com/Musa-505/techno-bot">Techno Bot</a></li>
+    <li class="list"><a href="https://github.com/Musa-505/facefind">Face Find</a></li>
+    <li class="list"><a href="https://github.com/Musa-505/voice-assistant">Voice Assistant</a></li>
+    <li class="list"><a href="https://myblog-kz.000webhostapp.com">My blog</a></li>
   </ul>
 </div>
-<a href="http://ms.net.xsph.ru" style="text-decoration: none;">My blog</a>
+  
+<style>
+    .list {
+      font-size: 18px;
+      text-decoration:none;
+    }
+</style>
