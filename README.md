@@ -1,6 +1,6 @@
 <h2>Musa Aldanazarov</h2>
 <h3>Frontend and Python</h3>
-<div style="background: black;">
+<div style="background-color: black;">
 <img src="https://avatars.mds.yandex.net/i?id=904c871f7d9b47309a6f50de76d24b28-4286137-images-thumbs&n=13" alt="banner" style="border-radius: 15px;">
 </div>
 <p>Hi, I'm Musa Aldanazarov fronend developer</p><br>
