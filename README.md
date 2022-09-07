@@ -17,7 +17,7 @@
 </h3>
 <div>
   <h3>My top repositories
-  <ul>
+  <ul style="list-style: none;">
     <li style="text-decoration: none; font-size: 18px;"><a href="https://github.com/Musa-505/techno-bot">Techno Bot</a></li>
     <li style="text-decoration: none; font-size: 18px;"><a href="https://github.com/Musa-505/facefind">Face Find</a></li>
     <li style="text-decoration: none; font-size: 18px;"><a href="https://github.com/Musa-505/voice-assistant">Voice Assistant</a></li>
